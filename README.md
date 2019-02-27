@@ -7,6 +7,10 @@ A GitHub repository to store my programming projects, this repository was create
 
 The inventory of projects:
 
-	*YouTube video Embed Example
+	*Discord Bot(Miyuki)
 
-	*Discord Bot (Miyuki)
+	*Bitly link shortener API
+
+	*Flask Login example
+
+	*Youtube embeded video example
