@@ -14,3 +14,5 @@ The inventory of projects:
 	*Flask Login example
 
 	*Youtube embeded video example
+
+	*Guess the number
