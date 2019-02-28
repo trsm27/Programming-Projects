@@ -5,6 +5,7 @@
 
 A GitHub repository to store my programming projects, this repository was created on 24.02.19.
 
+```
 The inventory of projects:
 
 	*Discord Bot(Miyuki)
@@ -18,3 +19,6 @@ The inventory of projects:
 	*Guess the number
 
 	*Simple JS website
+```
+
+if you have any suggestions feel free to  submit a feature sheet
