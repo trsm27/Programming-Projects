@@ -16,3 +16,5 @@ The inventory of projects:
 	*Youtube embeded video example
 
 	*Guess the number
+
+	*Simple JS website
