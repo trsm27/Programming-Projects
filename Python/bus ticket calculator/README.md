@@ -32,3 +32,5 @@ print("The change from £"+ str('%.2f' % offer)+ ' is £'+str('%.2f' % change))
 ```
 
 this outputs the change calculated by ```change = offer - total``` in 2 decimal places in the format ```The change from £??.?? is £??.??```
+
+we look forward to receiving your response 
