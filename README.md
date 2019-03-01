@@ -19,6 +19,8 @@ The inventory of projects:
 	*Guess the number
 
 	*Simple JS website
+    
+    *bus fare calculator
 ```
 
 if you have any suggestions feel free to  submit a feature sheet
