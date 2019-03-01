@@ -4,6 +4,7 @@ in this demonstration we can see of how to format certain inputs to be certain d
 
 ```
 num_tickets = int(input("enter number of bus tickets required "))
+
 ```
 
 in this line of code python stores the number of bus tickets required as an integer form due to the ```int()``` and stores is in a variable called ```num_tickets```
