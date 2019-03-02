@@ -20,7 +20,9 @@ The inventory of projects:
 
 	*Simple JS website
     
-    *bus fare calculator
+    	*bus fare calculator
+	
+	*Quote Storer
 ```
 
 if you have any suggestions feel free to  submit a feature sheet
