@@ -12,3 +12,5 @@ In this directory  there are a few of my python projects current inventory:
 	*Flask Login example
 
 	*Youtube embeded video example
+	
+	*Dice simulator 

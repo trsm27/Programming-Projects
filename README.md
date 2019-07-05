@@ -23,6 +23,8 @@ The inventory of projects:
     	*bus fare calculator
 	
 	*Quote Storer
+	
+	*Doce Simulator
 ```
 
 if you have any suggestions feel free to  submit a feature sheet
